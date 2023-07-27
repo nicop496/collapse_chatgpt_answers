@@ -1,2 +1,2 @@
-# collapse_chatgpt_answers
-A Chrome extension to collapse ChatGPT answers
+# Collapse ChatGPT answers
+This is a simple Chrome extension that adds a button to collapse ChatGPT answers, just like in any IDE where you collapse your classes, functions, etc.
